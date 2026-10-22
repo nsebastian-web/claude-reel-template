@@ -1,0 +1,12 @@
+projects/*
+!projects/.gitkeep
+output/
+*.mov
+*.mp4
+*.wav
+*.m4a
+*.mp3
+.hyperframes/
+.transcode-cache/
+__pycache__/
+.DS_Store

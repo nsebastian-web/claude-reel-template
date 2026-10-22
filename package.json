@@ -1,0 +1,11 @@
+{
+  "name": "claude-reel-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Edit talking-head reels with Claude Code + HyperFrames. Free, local, open source.",
+  "scripts": {
+    "new": "bash scripts/new-reel.sh",
+    "doctor": "npx hyperframes doctor",
+    "skills": "npx hyperframes skills update"
+  }
+}

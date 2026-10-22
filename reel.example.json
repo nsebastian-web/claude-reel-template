@@ -1,0 +1,11 @@
+{
+  "source": "/absolute/path/to/your-take.mov",
+  "duration": 33.0,
+  "segments": [
+    [1.80, 4.15, "first sentence you said"],
+    [5.25, 13.70, "the next stretch, long pauses removed"]
+  ],
+  "music": {
+    "my-bed": ["your-track.mp3", 0.0]
+  }
+}
